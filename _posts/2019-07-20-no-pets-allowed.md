@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Pets Allowe
+title: No Pets Allowed
 tags: [frontpage, jekyll, blog]
 ---
 
